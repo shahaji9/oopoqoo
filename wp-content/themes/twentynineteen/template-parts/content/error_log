@@ -1,0 +1,4 @@
+[20-Oct-2021 07:34:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/n4oaq7bt0cp8/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/n4oaq7bt0cp8/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php on line 14
